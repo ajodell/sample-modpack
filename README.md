@@ -3,3 +3,4 @@ This is a sample repository meant to demonstrate how to host a Minecraft modpack
 Included is the uncompressed modpack files for kicks and giggles.
 
 Behold, the link to the manifest:
+https://raw.githubusercontent.com/ajodell/sample-modpack/refs/heads/main/manifest.json
